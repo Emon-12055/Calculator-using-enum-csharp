@@ -1,0 +1,5 @@
+﻿Build started at 14:25...
+1>------ Build started: Project: calculator using enum, Configuration: Debug Any CPU ------
+1>  calculator using enum -> C:\Users\User\source\repos\Calculator\calculator using enum\bin\Debug\calculator using enum.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14:25 and took 00.301 seconds ==========
